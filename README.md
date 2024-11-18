@@ -34,7 +34,7 @@ For this exercise you  are given:
 
 ## Client requirements / constraints
 
-- To write the client choose your preferred programming language, unless otherwise communicated
+- To write the client choose your preferred programming/scripting language, unless otherwise communicated
 - Add the HTTP `Digest` request header, so as it contains a value calculated using the following pseudo formula: `"SHA-256="+b64encode(sha256(request body))`
 - The client-side signature must be calculated using the following pseudo formula: `b64encode(sign(digest header content)`
 - The algorithm to use for calculating the digest must be `sha256`
