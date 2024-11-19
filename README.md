@@ -89,7 +89,7 @@ If you get HTTP error 403, one of the following problem occurred:
 You  submit your work in different steps:
 
 1) Send us, by email, a dump of your complete server response (HTTP return code + headers + body)
-2) Upon our request, send us the client source code and all the instruction to run it on our side
+2) Upon our request, send us the client source code and all the instructions to run it on our side
 3) Upon our request, join us for an interview
 
 ## References
