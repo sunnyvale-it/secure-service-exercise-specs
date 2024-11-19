@@ -82,6 +82,7 @@ If you get HTTP error 403, one of the following problem occurred:
 ## Nice to have
 
 - Even if it is not mandatory, your client could validate the server signature (available in the Signature response header)
+- Although not requested, you can deliver your client as a container image 
 
 ## How to submit your work
 
