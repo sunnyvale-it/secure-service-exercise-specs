@@ -14,7 +14,7 @@ For this exercise you  are given:
 
 - A working, publicly available, server API and its URL (communicated once enrolled to the exercise)
 - The server public RSA key (click to [server_public_key.pem](server_public_key.pem) download it)
-- A pre-authenticated key-id, which is `client-1`
+- A pre-authenticated key-id, which is `client1`
 - The client public RSA key (click to [client_public_key.pem](client_public_key.pem) download it)
 - The client private RSA key (click to [client_private_key.pem](client_private_key.pem) download it)
 - An "attempt code" you will pass in the request body (assigned once enrolled to the exercise)
