@@ -95,7 +95,7 @@ You  submit your work in different steps:
 
 ## How your work will be evaluated
 
-You work will be evaluated against the following criteria. For each of them a rating percentage will be assigned (0 = low rating, 100 = high rating)
+You work will be evaluated against the following criteria. For each of them, a rating percentage will be assigned (0 = low rating, 100 = high rating)
 
 | Criteria  | Description | 
 |---|---|
