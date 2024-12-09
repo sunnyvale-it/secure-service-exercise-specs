@@ -103,7 +103,7 @@ You work will be evaluated against the following criteria. For each of them, a r
 | Supporting documentation  | How much and how well your solution has been documented. A good documentation allows the evaluator to install and run your artifact without (too much) guessing or troubleshooting    |  
 | Functioning degree   | Is your artifact working? Is the functionality deterministic or intermittent? |  
 | Code style   | Refers to a set of guidelines and conventions that dictate how code should be written, formatted, and organized to ensure consistency, readability, and maintainability. This criteria will evaluate the syntax, formatting, naming conventions, code structure, best practices, and commenting of your code |   
-| Detected use of AI or plagiarism   | The identification if your content has been either generated or assisted by artificial intelligence and/or copied or heavily derived from existing work. Low rating means that is evident that the submitted the solution has not been ingenierized by the candidate |   
+| Detected use of AI or plagiarism   | The identification if your content has been either generated or assisted by artificial intelligence and/or copied or heavily derived from existing work. Low rating means that is evident that the submitted solution has not been ingenierized by the candidate |   
 
 The arithmetic mean of the ratings described here above will be your final score.
 
