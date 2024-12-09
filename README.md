@@ -105,7 +105,7 @@ You work will be evaluated against the following criteria. For each of them, a r
 | Code style   | Refers to a set of guidelines and conventions that dictate how code should be written, formatted, and organized to ensure consistency, readability, and maintainability. This criteria will evaluate the syntax, formatting, naming conventions, code structure, best practices, and commenting of your code |   
 | Detected use of AI or plagiarism   | The identification if your content has been either generated or assisted by artificial intelligence and/or copied or heavily derived from existing work. Low rating means that is evident that the submitted the solution has not been ingenierized by the candidate |   
 
-The arithmetic mean of the ratings here above will be your final score.
+The arithmetic mean of the ratings described here above will be your final score.
 
 ## References
 
