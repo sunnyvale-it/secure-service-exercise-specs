@@ -83,6 +83,7 @@ If you get HTTP error 403, one of the following problem occurred:
 
 - Even if it is not mandatory, your client could validate the server signature (available in the Signature response header)
 - Although not requested, you can deliver your client as a container image 
+- It would be nice to receive unit tests along with your software artifact 
 
 ## How to submit your work
 
@@ -91,6 +92,20 @@ You  submit your work in different steps:
 1) Send us, by email, a dump of your complete server response (HTTP return code + headers + body)
 2) Upon our request, send us the client source code and all the instructions to run it on our side
 3) Upon our request, join us for an interview
+
+## How your work will be evaluated
+
+You work will be evaluated against the following criteria. For each of them a rating percentage will be assigned (0 = low rating, 100 = high rating)
+
+| Criteria  | Description | 
+|---|---|
+| Requirements coverage  | The extent to which the requirements of this exercise has been addressed through your implementation  | 
+| Supporting documentation  | How much and how well your solution has been documented. A good documentation allows the evaluator to install and run your artifact without (too much) guessing or troubleshooting    |  
+| Functioning degree   | Is your artifact working? Is the functionality deterministic or intermittent? |  
+| Code style   | Refers to a set of guidelines and conventions that dictate how code should be written, formatted, and organized to ensure consistency, readability, and maintainability. This criteria will evaluate the syntax, formatting, naming conventions, code structure, best practices, and commenting of your code |   
+| Detected use of AI or plagiarism   | The identification if your content has been either generated or assisted by artificial intelligence and/or copied or heavily derived from existing work. Low rating means that is evident that the submitted the solution has not been ingenierized by the candidate |   
+
+The arithmetic mean of the ratings here above will be your final score.
 
 ## References
 
